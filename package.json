@@ -1,0 +1,19 @@
+{
+  "name": "3d-paint",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CS 4361.002 Group 4 - Drawing on 3D objects with Three.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lil-gui": "^0.19.2",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
